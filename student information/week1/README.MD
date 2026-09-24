@@ -6,7 +6,7 @@ The following string variables are created to store the date information entered
 string DayoftheWeek, Month, Day, Year, FullDate;
 ```
 
-![Creating Variables](Screenshots/creatingvariable.png.png)
+![Creating Variables](Screenshots/Assign_variable.jpeg)
 
 ### 2. Assigning Variables
 
@@ -22,7 +22,7 @@ Day = dayOfMonthTextBox.Text;
 Year = yearTextBox.Text;
 ```
 
-![Assigning Variables](Screenshots/Assign_variable.png)
+![Assigning Variables](Screenshots/creatingvariable1.jpeg)
 
 ### 3. Concatenation
 
@@ -45,7 +45,7 @@ dateOutputLabel.Text = FullDate;
 
 The `dateOutputLabel` is a Label control on `Form1` used to display the final date.
 
-![Displaying Result](Screenshots/Displaying_Result.png)
+![Displaying Result](Screenshots/Displaying_Result.jpeg)
 
 
 
@@ -67,6 +67,6 @@ dateOutputLabel.Text = string.Empty;
 
 This allows the user to remove the previous input and output from the form.
 
-![Clearing Input Fields](Screenshots/Clearing_Input.png)
+![Clearing Input Fields](Screenshots/Clearing_Input.jpeg)
 
 
