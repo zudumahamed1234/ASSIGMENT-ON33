@@ -1,0 +1,10 @@
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\bin\Debug\ASSIGMENT.exe.config
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\bin\Debug\ASSIGMENT.exe
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\bin\Debug\ASSIGMENT.pdb
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\obj\Debug\ASSIGMENT.csproj.AssemblyReference.cache
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\obj\Debug\ASSIGMENT.Form1.resources
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\obj\Debug\ASSIGMENT.Properties.Resources.resources
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\obj\Debug\ASSIGMENT.csproj.GenerateResource.cache
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\obj\Debug\ASSIGMENT.csproj.CoreCompileInputs.cache
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\obj\Debug\ASSIGMENT.exe
+C:\Users\fardo\source\repos\ASSIGMENT\ASSIGMENT\obj\Debug\ASSIGMENT.pdb
