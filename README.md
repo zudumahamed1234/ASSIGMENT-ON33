@@ -1,140 +1,117 @@
-C# One Assignment
-
-Student Information
-
-Name: Fardowsa Maxamed Osman
-Department: Information Technology
-Course: C# One
-University: Jamhuriya University of Science and Technology (JUST)
-
-
-About This Repository
-
-This repository contains my C# One course assignments, exercises, and practical projects.
-
-The purpose of this repository is to practice C# programming concepts and improve my programming skills through practical exercises.
-
-
-
+C# Programming I
+Course Information
+Item	Details
+Course Title	C# Programming I
+Course Code	CA221
+Department	Computer Application
+Faculty	Computer & Information Technology
+University	Jamhuriya University of Science & Technology
+Academic Year	2026
+Semester	IV
+Prerequisite	Introduction Programming
+Course Coordinator	Yahye Ali Isse
 Course Description
+Write a short description of the course here.
+Course Objectives
+By the end of this course, students should be able to:
 
-C# One is a programming course that introduces the basic concepts of C# programming and Windows application development.
+Understand the fundamentals of C# programming.
+Apply programming logic and problem-solving techniques.
+Understand event-driven programming.
+Develop graphical user interface applications.
+Work with methods, arrays, lists, and files.
+Connect C# applications with databases.
+Develop desktop applications.
+Course Content
+Week	Topic	Chapter
+Week 1	Introduction to Visual C#	Chapter 1
+Week 2	Processing Data	Chapter 2
+Week 3	Making Decisions	Chapter 3
+Weeks 4–5	Loops, Files, and Random Numbers	Chapter 4
+Weeks 6–7	Modularizing Your Code with Methods	Chapter 5
+Weeks 8–9	Arrays and Lists	Chapter 6
+Weeks 10–11	ADO.NET	Chapter 7
+Week 12	Sample Project	
+Weeks 13–14	Build Desktop Application	Chapter 8
+Learning Outcomes
+After completing the course, students should be able to:
 
-During this course, I am learning how to write, organize, test, and run C# programs.
+Understand Windows and event-driven programming.
+Develop GUI applications.
+Apply programming logic when solving problems.
+Use C# programming structures correctly.
+Use methods to organize programs.
+Work with arrays and lists.
+Connect applications to databases using ADO.NET.
+Develop small- to medium-sized Windows applications.
+Course Materials
+Lectures
+Lecture 01 - Introduction to Visual C#
+Lecture 02 - Processing Data
+Lecture 03 - Making Decisions
+Lecture 04 - Loops
+Lecture 05 - Files and Random Numbers
+Lecture 06 - Methods
+Lecture 07 - Arrays and Lists
+Lecture 08 - ADO.NET
+Lecture 09 - Desktop Application Development
+Labs
+Lab 01
+Lab 02
+Lab 03
+Lab 04
+Lab 05
+Assignments
+Assignment 01
+Assignment 02
+Assignment 03
+Assessment
+Assessment	Weight
+Midterm Exam	30%
+Labs and Home Assignments	15%
+Final Exam	30%
+Labs and Home Assignments	10%
+Project	15%
+Total	100%
+Course Project
+Students will develop a desktop application at the end of the semester. The project should demonstrate concepts learned during the course, including:
 
+User interface design
+Variables and data types
+Decision structures
+Loops
+Methods
+Arrays or lists
+Database connectivity
+ADO.NET
+Desktop application development
+Software Requirements
+Visual Studio
+C#
+.NET
+Windows Forms
+Database Management System
+Textbook
+Starting Out With Visual C#
 
+Author: Tony Gaddis
+Publisher: Pearson
+Edition: Sixth Edition
+Year: 2023
+Reference Book
+Starting Out With Visual C#
 
-Topics Covered
+Authors: Tony Gaddis and Kip Irvine
+Publisher: Pearson
+Edition: Fourth Edition
+Year: 2017
+Teaching and Learning Methods
+Lectures
+Laboratory sessions
+Practical exercises
+Assignments
+Individual practice
+Project-based learning
+Instructor / Coordinator
+Yahye Ali Isse Department of Computer Application Faculty of Computer & Information Technology Jamhuriya University of Science & Technology
 
-The main topics I am studying include:
-
-* Introduction to C#
-* Variables and Data Types
-* Operators
-* Expressions
-* Conditional Statements
-* If and Else Statements
-* Switch Statements
-* Loops
-* Methods
-* Classes and Objects
-* Constructors
-* Static and Instance Members
-* Arrays
-* Windows Forms
-* GUI Controls
-* TextBox
-* Label
-* Button
-* Properties
-* Event Handling
-* Basic Object-Oriented Programming
-
-
-
-Software and Tools
-
-The following tools are used for this course:
-
-* Visual Studio Code
-* C#
-* .NET
-* GitHub
-* GitHub Desktop
-
-
-Project Structure
-
-CSharpAssignment
-│
-├── assignment
-│   ├── Program.cs
-│   └── README.md
-│
-└── README.md
-
-
-
-My Learning Goals
-
-My goals for this course are:
-
-1. To understand the fundamentals of C# programming.
-2. To improve my problem-solving skills.
-3. To learn how to create simple C# applications.
-4. To understand Object-Oriented Programming.
-5. To practice Windows Forms development.
-6. To learn how to use GitHub for managing my projects.
-7. To improve my programming skills through regular practice.
-
-
-How to Run the Project
-
-To run the C# project:
-
-1. Install .NET.
-2. Install Visual Studio Code.
-3. Open the project folder in Visual Studio Code.
-4. Open the terminal.
-5. Run the required C# command.
-6. Check the output of the program.
-
-
-
-GitHub Workflow
-
-I use GitHub Desktop to manage my assignments.
-
-The basic workflow is:
-
-Write Code
-     ↓
-Save Changes
-     ↓
-GitHub Desktop
-     ↓
-Commit
-     ↓
-Push Origin
-     ↓
-GitHub Repository
-
-This allows me to save and manage different versions of my assignments.
-
-
-Conclusion
-
-This repository represents my progress in learning C# programming.
-
-I will continue adding assignments, exercises, and projects as I progress through the C# One course.
-
-I am using this repository to practice programming, track my progress, and improve my skills as an Information Technology student.
-
-Author
-
-Fardowsa Maxamed Osman
-
-Information Technology Student
-Jamhuriya University of Science and Technology (JUST)
-
-Thank you for visiting my repository!
