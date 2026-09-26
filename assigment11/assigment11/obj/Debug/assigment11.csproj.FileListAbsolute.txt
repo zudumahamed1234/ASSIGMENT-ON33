@@ -1,0 +1,10 @@
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\bin\Debug\assigment11.exe.config
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\bin\Debug\assigment11.exe
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\bin\Debug\assigment11.pdb
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\obj\Debug\assigment11.csproj.AssemblyReference.cache
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\obj\Debug\assigment11.Form1.resources
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\obj\Debug\assigment11.Properties.Resources.resources
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\obj\Debug\assigment11.csproj.GenerateResource.cache
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\obj\Debug\assigment11.csproj.CoreCompileInputs.cache
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\obj\Debug\assigment11.exe
+C:\Users\fardo\OneDrive\Desktop\assigment11\assigment11\obj\Debug\assigment11.pdb

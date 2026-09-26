@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fardo\\OneDrive\\Desktop\\assigment11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08E65346-58C9-4032-8B94-585779A7526A}|assigment11\\assigment11.csproj|c:\\users\\fardo\\onedrive\\desktop\\assigment11\\assigment11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08E65346-58C9-4032-8B94-585779A7526A}|assigment11\\assigment11.csproj|solutionrelative:assigment11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E65346-58C9-4032-8B94-585779A7526A}|assigment11\\assigment11.csproj|c:\\users\\fardo\\onedrive\\desktop\\assigment11\\assigment11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E65346-58C9-4032-8B94-585779A7526A}|assigment11\\assigment11.csproj|solutionrelative:assigment11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fardo\\OneDrive\\Desktop\\assigment11\\assigment11\\Form1.cs",
+              "RelativeDocumentMoniker": "assigment11\\Form1.cs",
+              "ToolTip": "C:\\Users\\fardo\\OneDrive\\Desktop\\assigment11\\assigment11\\Form1.cs",
+              "RelativeToolTip": "assigment11\\Form1.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T17:24:54.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fardo\\OneDrive\\Desktop\\assigment11\\assigment11\\Form1.cs",
+              "RelativeDocumentMoniker": "assigment11\\Form1.cs",
+              "ToolTip": "C:\\Users\\fardo\\OneDrive\\Desktop\\assigment11\\assigment11\\Form1.cs [Design]",
+              "RelativeToolTip": "assigment11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T17:19:59.065Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
