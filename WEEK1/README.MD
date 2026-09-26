@@ -1,8 +1,14 @@
-CHAPTER 1 — C# CODE AND EXPLANATIONS
+Chapter 1 — C# Code and Explanations
 
-Code 1: Form1 Constructor
+This chapter introduces basic C# Windows Forms concepts, including constructors, buttons, MessageBox, Labels, PictureBox controls, closing forms, comments, and syntax errors.
 
-Purpose: To initialize the Form when the program starts.
+---
+
+1. Form1 Constructor
+
+Purpose
+
+The constructor initializes the Form when the program starts.
 
 namespace hello_world
 {
@@ -15,206 +21,328 @@ namespace hello_world
     }
 }
 
-Explanation:
+Explanation
 
-* namespace hello_world: Defines the namespace name.
-* public partial class Form1 : Form: Defines the Form1 class.
-* public Form1(): This is the constructor.
-* InitializeComponent();: Initializes the Form and its controls.
+- "namespace hello_world": Defines the namespace name.
+- "public partial class Form1 : Form": Defines the "Form1" class.
+- "public Form1()": This is the constructor.
+- "InitializeComponent();": Initializes the Form and its controls.
 
-How it works: The program starts, the constructor runs, and InitializeComponent() prepares the Form.
+How It Works
 
-⸻
+When the program starts, the constructor runs and "InitializeComponent();" prepares the Form and its controls.
 
-Code 2: MessageBox — Displaying a Message
+Screenshot
 
-Purpose: To display a message when a Button is clicked.
+"Form1 Constructor" (Screenshots/form1_constructor.png)
+
+---
+
+2. MessageBox — Displaying a Message
+
+Purpose
+
+To display a message when a Button is clicked.
 
 private void myButton_Click(object sender, EventArgs e)
 {
     MessageBox.Show("Thanks for clicking the button!");
 }
 
-Explanation:
+Explanation
 
-* private void: Defines a method that does not return a value.
-* myButton_Click: The event handler name.
-* object sender: Identifies the object that caused the event.
-* EventArgs e: Contains event information.
-* MessageBox.Show(): Displays a message.
-* "Thanks for clicking the button!": The message displayed.
+- "private void": Defines a method that does not return a value.
+- "myButton_Click": The event handler name.
+- "object sender": Identifies the object that caused the event.
+- "EventArgs e": Contains event information.
+- "MessageBox.Show()": Displays a message.
+- ""Thanks for clicking the button!"": The message displayed.
 
-How it works: The user clicks the Button, the event handler runs, and a message appears.
+How It Works
 
-⸻
+The user clicks the Button, the event handler runs, and a message appears.
 
-Code 3: Hello World
+Screenshot
 
-Purpose: To display “Hello World” when a Button is clicked.
+"MessageBox" (Screenshots/messagebox.png)
+
+---
+
+3. Hello World
+
+Purpose
+
+To display Hello World when a Button is clicked.
 
 private void messageButton_Click(object sender, EventArgs e)
 {
     MessageBox.Show("Hello World");
 }
 
-Explanation:
+Explanation
 
-* messageButton_Click: Handles the Button click event.
-* MessageBox.Show(): Displays a message.
-* "Hello World": The text displayed.
+- "messageButton_Click": Handles the Button click event.
+- "MessageBox.Show()": Displays a message.
+- ""Hello World"": The text displayed.
 
-Output: A message box displays Hello World.
+Output
 
-⸻
+A message box displays:
 
-Code 4: Label — Displaying Text
+Hello World
 
-Purpose: To display text in a Label.
+Screenshot
+
+"Hello World" (Screenshots/hello_world.png)
+
+---
+
+4. Label — Displaying Text
+
+Purpose
+
+To display text in a Label.
 
 answerLabel.Text = "Hello World";
 
-Explanation:
+Explanation
 
-* answerLabel: The Label’s name.
-* .Text: The text displayed in the Label.
-* =: The assignment operator.
-* "Hello World": The text assigned to the Label.
-* ;: Ends the statement.
+- "answerLabel": The Label's name.
+- ".Text": The text displayed in the Label.
+- "=": The assignment operator.
+- ""Hello World"": The text assigned to the Label.
+- ";": Ends the statement.
 
-Output: The Label displays Hello World.
+Output
 
-⸻
+The Label displays:
 
-Code 5: Clearing a Label
+Hello World
 
-Purpose: To clear the text displayed in a Label.
+Screenshot
+
+"Label Display" (Screenshots/label_display.png)
+
+---
+
+5. Clearing a Label
+
+Purpose
+
+To clear the text displayed in a Label.
 
 answerLabel.Text = "";
 
-Explanation:
+Explanation
 
-* answerLabel: The Label’s name.
-* .Text: The Label’s text property.
-* "": An empty string.
+- "answerLabel": The Label's name.
+- ".Text": The Label's Text property.
+- """": An empty string.
 
-Output: The Label becomes empty.
+Output
 
-⸻
+The Label becomes empty.
 
-Code 6: PictureBox — Showing and Hiding Images
+Screenshot
 
-Purpose: To show one image and hide another image.
+"Clear Label" (Screenshots/clear_label.png)
+
+---
+
+6. PictureBox — Showing and Hiding Images
+
+Purpose
+
+To show one image and hide another image.
 
 cardBackPictureBox.Visible = true;
 cardFacePictureBox.Visible = false;
 
-Explanation:
+Explanation
 
-* cardBackPictureBox: The PictureBox for the back image.
-* Visible = true: Makes the image visible.
-* cardFacePictureBox: The PictureBox for the front image.
-* Visible = false: Hides the image.
+- "cardBackPictureBox": The PictureBox for the back image.
+- "Visible = true": Makes the image visible.
+- "cardFacePictureBox": The PictureBox for the front image.
+- "Visible = false": Hides the image.
 
-Output: The back image appears, and the front image is hidden.
+Output
 
-⸻
+The back image appears, and the front image is hidden.
 
-Code 7: Closing a Form
+Screenshot
 
-Purpose: To close the current Form.
+"PictureBox Visible" (Screenshots/picturebox.png)
+
+---
+
+7. Closing a Form
+
+Purpose
+
+To close the current Form.
 
 this.Close();
 
-Explanation:
+Explanation
 
-* this: Refers to the current Form.
-* Close(): Closes the Form.
-* ;: Ends the statement.
+- "this": Refers to the current Form.
+- "Close()": Closes the Form.
+- ";": Ends the statement.
 
-Output: The current Form closes.
+Output
 
-⸻
+The current Form closes.
 
-Code 8: Closing the Entire Application
+Screenshot
 
-Purpose: To close the application.
+"Close Form" (Screenshots/close_form.png)
+
+---
+
+8. Closing the Entire Application
+
+Purpose
+
+To close the application.
 
 Application.Exit();
 
-Explanation:
+Explanation
 
-* Application: Refers to the application.
-* Exit(): Requests the application to close.
-* ;: Ends the statement.
+- "Application": Refers to the application.
+- "Exit()": Requests the application to close.
+- ";": Ends the statement.
 
-Output: The application closes.
+Output
 
-Difference:
+The application closes.
 
-* this.Close(); closes the current Form.
-* Application.Exit(); closes the application.
+Difference Between "this.Close()" and "Application.Exit()"
 
-⸻
+Code| Purpose
+"this.Close();"| Closes the current Form
+"Application.Exit();"| Closes the entire application
 
-Code 9: Single-Line Comment
+---
 
-Purpose: To add a note inside the code.
+9. Single-Line Comment
+
+Purpose
+
+To add a note inside the code.
 
 // This is a comment.
 
-Explanation:
+Explanation
 
-* // starts a single-line comment.
-* The comment is not executed as program code.
-* It helps programmers understand the code.
+- "//" starts a single-line comment.
+- The comment is not executed as program code.
+- Comments help programmers understand the code.
 
-⸻
+Screenshot
 
-Code 10: Multi-Line Comment
+"Single Line Comment" (Screenshots/single_line_comment.png)
 
-Purpose: To write a comment on multiple lines.
+---
+
+10. Multi-Line Comment
+
+Purpose
+
+To write a comment on multiple lines.
 
 /*
 This is a comment.
 It has multiple lines.
 */
 
-Explanation:
+Explanation
 
-* /* starts the comment.
-* */ ends the comment.
-* The text inside is not executed.
+- "/*" starts the comment.
+- "*/" ends the comment.
+- The text inside the comment is not executed.
 
-⸻
+Screenshot
 
-Code 11: Syntax Error Example
+"Multi Line Comment" (Screenshots/multi_line_comment.png)
 
-Correct code:
+---
+
+11. Syntax Error Example
+
+Correct Code
 
 MessageBox.Show("Hello World");
 
-Incorrect code:
+Incorrect Code
 
 MessageBox.Show("Hello World"
 
-Explanation:
+Explanation
 
-The incorrect code is missing a closing parenthesis ) and a semicolon ;.
+The incorrect code is missing:
+
+- A closing parenthesis ")"
+- A semicolon ";"
 
 A Syntax Error is a mistake in the way code is written. Visual Studio helps identify these errors.
 
-⸻
+Screenshot
+
+"Syntax Error" (Screenshots/syntax_error.png)
+
+---
 
 Final Summary
 
-* InitializeComponent(); initializes the Form.
-* MessageBox.Show(); displays a message.
-* Label.Text displays or clears text.
-* PictureBox.Visible shows or hides an image.
-* this.Close(); closes the current Form.
-* Application.Exit(); closes the application.
-* // and /* */ are used for comments.
-* Syntax Errors are mistakes in code.
+C# Code| Purpose
+"InitializeComponent();"| Initializes the Form
+"MessageBox.Show();"| Displays a message
+"Label.Text"| Displays or clears text
+"PictureBox.Visible"| Shows or hides an image
+"this.Close();"| Closes the current Form
+"Application.Exit();"| Closes the application
+"//"| Creates a single-line comment
+"/* */"| Creates a multi-line comment
+
+Key Points
+
+- InitializeComponent(); initializes the Form and its controls.
+- MessageBox.Show(); displays a message box.
+- Label.Text is used to display or clear text.
+- PictureBox.Visible controls whether an image is visible.
+- this.Close(); closes the current Form.
+- Application.Exit(); closes the entire application.
+- // and / / are used for comments.
+- Syntax Errors are mistakes in the way code is written.
+
+---
+
+Screenshots Folder
+
+Place all your images inside a folder named:
+
+Screenshots
+
+Your project can have this structure:
+
+C# Practice
+│
+├── README.md
+│
+└── Screenshots
+    ├── form1_constructor.png
+    ├── messagebox.png
+    ├── hello_world.png
+    ├── label_display.png
+    ├── clear_label.png
+    ├── picturebox.png
+    ├── close_form.png
+    ├── single_line_comment.png
+    ├── multi_line_comment.png
+    └── syntax_error.png
+
+* 
 
 Information Technology Student
 
