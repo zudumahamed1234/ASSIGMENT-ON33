@@ -1,0 +1,10 @@
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\bin\Debug\WindowsFormsApp5 student information.exe.config
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\bin\Debug\WindowsFormsApp5 student information.exe
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\bin\Debug\WindowsFormsApp5 student information.pdb
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\obj\Debug\WindowsFormsApp5 student information.csproj.AssemblyReference.cache
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\obj\Debug\WindowsFormsApp5_student_information.Form1.resources
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\obj\Debug\WindowsFormsApp5_student_information.Properties.Resources.resources
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\obj\Debug\WindowsFormsApp5 student information.csproj.GenerateResource.cache
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\obj\Debug\WindowsFormsApp5 student information.csproj.CoreCompileInputs.cache
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\obj\Debug\WindowsFormsApp5 student information.exe
+C:\Users\fardo\source\repos\WindowsFormsApp5 student information\WindowsFormsApp5 student information\obj\Debug\WindowsFormsApp5 student information.pdb
