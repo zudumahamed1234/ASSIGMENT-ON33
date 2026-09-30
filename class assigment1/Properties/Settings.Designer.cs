@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CLASS_ASSIGMENT.Properties
+namespace class_assigment1.Properties
 {
 
 

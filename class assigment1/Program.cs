@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CLASS_ASSIGMENT
+namespace class_assigment1
 {
     internal static class Program
     {

@@ -1,0 +1,10 @@
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\bin\Debug\class assigment1.exe.config
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\bin\Debug\class assigment1.exe
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\bin\Debug\class assigment1.pdb
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\obj\Debug\class assigment1.csproj.AssemblyReference.cache
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\obj\Debug\class_assigment1.Form1.resources
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\obj\Debug\class_assigment1.Properties.Resources.resources
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\obj\Debug\class assigment1.csproj.GenerateResource.cache
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\obj\Debug\class assigment1.csproj.CoreCompileInputs.cache
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\obj\Debug\class assigment1.exe
+C:\Users\fardo\OneDrive\Desktop\CLASS ASSIGMENT\class assigment1\class assigment1\obj\Debug\class assigment1.pdb
