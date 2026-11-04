@@ -480,4 +480,3 @@ IMPORTANT THEORY – EXAM REVISION
 26. NextDouble: Generates a floating-point number between 0.0 and 1.0.
 27. Load Event: Takes place when the Form is loaded into memory.
 
-END OF CHAPTER 4 – THEORY ONLY
