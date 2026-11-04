@@ -1,4 +1,4 @@
-# C# Chapter 3 – Variables and Input
+# C# Chapter 2 – Variables and Input
 
 This chapter introduces **TextBox controls, variables, data types, string concatenation, variable scope, initialization, numeric data types, casting, and the `var` keyword** in C# Windows Forms.
 

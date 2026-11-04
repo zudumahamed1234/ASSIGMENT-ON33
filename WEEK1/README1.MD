@@ -297,12 +297,6 @@ Slide 36: Message Boxes
 
 A MessageBox displays a message.
 
-Code example:
-
-private void myButton_Click(object sender, EventArgs e)
-{
-    MessageBox.Show("Thanks for clicking the button!");
-}
 
 Explanation: When the Button is clicked, the program displays the message “Thanks for clicking the button!”
 

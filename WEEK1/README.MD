@@ -340,7 +340,7 @@ C# Practice
     ├── close_form.png
     ├── single_line_comment.png
     ├── multi_line_comment.png
-    └── syntax_error.png
+    └── syntax_error.png++
 
 * 
 
